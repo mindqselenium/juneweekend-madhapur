@@ -1,0 +1,53 @@
+2019-06-26 18:11:05,010 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:13:40,721 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:13:49,023 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-26 18:13:49,425 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-26 18:15:01,620 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:15:09,895 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-26 18:18:40,918 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:18:49,813 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-26 18:18:50,241 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-26 18:21:37,781 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:21:45,654 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-26 18:22:00,300 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-26 18:24:13,508 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:24:21,282 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-26 18:24:32,535 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-26 18:27:37,078 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:27:44,754 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-26 18:28:02,732 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-26 18:28:03,146 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-26 18:29:20,629 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-26 18:29:29,702 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-26 18:29:41,364 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-26 18:29:41,719 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-27 10:05:47,904 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-27 10:05:55,872 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-27 10:06:12,074 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-27 10:06:12,438 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-28 08:29:38,409 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-28 08:29:48,193 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-28 08:29:58,947 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-28 08:29:59,486 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-28 08:52:02,873 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-28 08:52:12,888 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-28 08:52:26,029 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-28 08:52:26,377 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-28 08:57:52,151 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-28 08:58:01,478 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-28 08:58:14,047 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-28 08:58:14,421 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-28 09:00:08,197 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-28 09:00:18,017 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-28 09:00:31,332 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-28 09:00:31,658 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-28 09:02:06,936 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-06-28 09:02:15,848 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-06-28 09:02:28,242 [main] INFO com.OHRMS.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-28 09:02:28,582 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-07-19 23:00:25,400 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-07-19 23:00:33,275 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-07-19 23:00:33,678 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
+2019-07-20 12:03:32,710 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization started
+2019-07-20 12:03:41,944 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - title validation started
+2019-07-20 12:03:42,330 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login screenshot captured
